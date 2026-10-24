@@ -31,6 +31,7 @@
 
 ## 📋 Table of Contents
 
+- [🔐 Test Accounts](#-test-accounts)
 - [🎯 Reference & Scope](#-reference--scope)
 - [✨ Core Features](#-core-features)
 - [🎨 Visual & Interaction Fidelity](#-visual--interaction-fidelity)
@@ -43,6 +44,36 @@
 - [🔐 Database Schema & RLS Setup](#-database-schema--rls-setup)
 - [👑 Admin Provisioning](#-admin-provisioning)
 - [👨💻 Author](#-author)
+
+---
+
+## 🔐 Test Accounts
+
+Use these credentials for the deployed evaluation environment:
+
+#### 👨‍💼 Administrator
+- **Email:** `admin@gmail.com`
+- **Password:** `admin@123`
+- **Role:** `Admin` (Full Administrative Access)
+- **Portal:** [`/admin/login`](http://localhost:3000/admin/login)
+
+#### 👤 Approved User
+- **Email:** `Joel@gmail.com`
+- **Password:** `Joel@123`
+- **Role:** `User` (Approved Status — Full User Dashboard Access)
+- **Portal:** [`/login`](http://localhost:3000/login)
+
+#### ⏳ Pending / Rejected Account (Workflow Testing)
+- **Email:** `hazim@gmail.com`
+- **Password:** `Hazim@123`
+- **Role:** `User` (Pending / Rejected — Blocked from Protected Dashboard)
+- **Portal:** [`/login`](http://localhost:3000/login)
+
+#### 👨‍🎓 Additional Registered Account
+- **Email:** `hmpibnurnh3@gmail.com`
+- **Password:** `hashmil@123`
+- **Role:** `User`
+- **Portal:** [`/login`](http://localhost:3000/login)
 
 ---
 
