@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E40AF,2563EB,38BDF8&height=180&section=header&text=User%20Management%20System&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Role-Based%20Access%20Control%20%26%20Admin%20Approval%20Workflow&descAlignY=62&descSize=16" alt="User Management System Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2563eb,1d4ed8,38bdf8&height=180&section=header&text=User%20Management%20System&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Role%20Based%20Access%20Control%20Platform&descAlignY=62&descSize=16" alt="User Management System Banner" />
 </p>
-
 <h1 align="center">
-  User Management System (UMS)
+  <img src="./public/logo.png" alt="UMS Logo" width="120" />
+  <br>
+  User Management System
+  <br>
   <br>
   <img src="https://img.shields.io/badge/UMS-Full--Stack%20RBAC-2563EB?style=for-the-badge&logo=shield&logoColor=white" alt="UMS Badge" />
 </h1>
